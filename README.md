@@ -2,7 +2,7 @@
 
 - Estou no primeiro semestre em Ciência da Computação.
 - 🛠️ Tecnologias:
-  Python,Scratch.
+  Python e Scratch.
 
 ## Meios de Contato:
 - LinkedIn – Felipe Gabriel: (https://www.linkedin.com/in/felipe-gabriel-4a10b5360/)
