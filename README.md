@@ -1,4 +1,4 @@
-# portifolio Olá, eu sou o Felipe
+# Olá, eu sou o Felipe
 
 - Estou no primeiro semestre em Ciência da Computação.
 - 🛠️ Tecnologias:
